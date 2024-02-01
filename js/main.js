@@ -28,7 +28,7 @@ if(credenciales && checkIngreso == check)
     alert ("Usuario incorrecto. Por favor, intente de nuevo");
 }*/
 
-let edadObligatoria = 18;
+/*let edadObligatoria = 18;
 let edadNoPermitida= 17;
 
 let edadUsuario = parseInt (prompt ("¿Eres mayor de edad?"));
@@ -38,4 +38,4 @@ if(edadUsuario >= 18){
 } else(edadUsuario <18); {
     alert("Esta prohibido el consumo de alcohol para menores de 18 años");
 }
-
+*/
